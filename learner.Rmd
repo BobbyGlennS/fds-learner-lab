@@ -106,13 +106,36 @@ What code would you use to get the top 5 winners for each gender?
 
 ```{r}
 # women
+top5_wta <- data_wta %>%
   # add your code here...
 ```
 
 ```{r}
 # men
+top5_atp <- data_atp %>%
   # add your code here...
 
+```
+
+### Add a visualisation
+
+Let's visualise these results.
+
+```{r}
+bind_rows(
+  "women" = top5_wta,
+  "men" = top5_atp,
+  .id = "gender"
+) %>% 
+  mutate(winner_name = fct_inorder(winner_name),
+         winner_name = fct_rev(winner_name)) %>% 
+  ggplot(aes(x = n, y = winner_name)) +
+  geom_col(fill = "#C0C663") +
+  facet_wrap(vars(gender), scale = "free") +
+  hrbrthemes::theme_ipsum_rc() +
+  labs(title = "Top 5 Grand Slam Winners by Gender",
+       x = "Number of titles won",
+       y = "")
 ```
 
 ---
@@ -121,12 +144,36 @@ What code would you use to get the top 5 winners for each gender?
 
 ```{r}
 # women
+top5_wta_open_era <- data_wta %>%
   # add your code here...
 ```
 
 ```{r}
 # men
+top5_atp_open_era <- data_atp %>%
   # add your code here...
+```
+
+### Add a visualisation
+
+Let's visualise these results.
+
+```{r}
+bind_rows(
+  "women" = top_wta_open_era,
+  "men" = top_atp_open_era,
+  .id = "gender"
+) %>% 
+  mutate(winner_name = fct_inorder(winner_name),
+         winner_name = fct_rev(winner_name)) %>% 
+  ggplot(aes(x = n, y = winner_name)) +
+  geom_col(fill = "#C0C663") +
+  facet_wrap(vars(gender), scale = "free") +
+  hrbrthemes::theme_ipsum_rc() +
+  labs(title = "Top 5 Grand Slam Winners by Gender",
+       subtitle = "Only Grand Slam's from the Open Era are Included",
+       x = "Number of titles won",
+       y = "")
 ```
 
 

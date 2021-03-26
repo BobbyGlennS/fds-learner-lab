@@ -136,9 +136,11 @@ What code would you use to get the top 5 winners for each gender?
 
 ``` r
 # women
-data_wta %>%
+top5_wta <- data_wta %>%
   count(winner_name) %>% 
   slice_max(n, n = 5)
+
+top5_wta
 ```
 
     ## # A tibble: 5 x 2
@@ -152,9 +154,11 @@ data_wta %>%
 
 ``` r
 # men
-data_atp %>%
+top5_atp <- data_atp %>%
   count(winner_name) %>% 
   slice_max(n, n = 5)
+
+top5_atp
 ```
 
     ## # A tibble: 5 x 2
@@ -165,6 +169,29 @@ data_atp %>%
     ## 3 Novak Djokovic    18
     ## 4 Pete Sampras      14
     ## 5 Bjorn Borg        11
+
+### Add a visualisation
+
+Let’s visualise these results.
+
+``` r
+bind_rows(
+  "women" = top5_wta,
+  "men" = top5_atp,
+  .id = "gender"
+) %>% 
+  mutate(winner_name = fct_inorder(winner_name),
+         winner_name = fct_rev(winner_name)) %>% 
+  ggplot(aes(x = n, y = winner_name)) +
+  geom_col(fill = "#C0C663") +
+  facet_wrap(vars(gender), scale = "free") +
+  hrbrthemes::theme_ipsum_rc() +
+  labs(title = "Top 5 Grand Slam Winners by Gender",
+       x = "Number of titles won",
+       y = "")
+```
+
+![](answers_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
 
 The results might be a bit surprising. If they do, you may want to
 google ‘open era in tennis’ and see if you can work out why these
@@ -173,36 +200,42 @@ results are not what you expected them to be.
 ### Does it change with this aforementioned open era?
 
 ``` r
-data_wta %>%
+top_wta_open_era <- data_wta %>%
   filter(year(date) > 1967) %>% 
   count(winner_name) %>% 
   slice_max(n, n = 5)
 ```
-
-    ## # A tibble: 5 x 2
-    ##   winner_name             n
-    ##   <chr>               <int>
-    ## 1 Serena Williams        23
-    ## 2 Steffi Graf            22
-    ## 3 Chris Evert            18
-    ## 4 Martina Navratilova    18
-    ## 5 Margaret Court         11
 
 ``` r
-data_atp %>%
+top_atp_open_era <- data_atp %>%
   filter(year(date) > 1967) %>% 
   count(winner_name) %>% 
   slice_max(n, n = 5)
 ```
 
-    ## # A tibble: 5 x 2
-    ##   winner_name        n
-    ##   <chr>          <int>
-    ## 1 Rafael Nadal      20
-    ## 2 Roger Federer     20
-    ## 3 Novak Djokovic    18
-    ## 4 Pete Sampras      14
-    ## 5 Bjorn Borg        11
+### Add a visualisation
+
+Let’s visualise these results.
+
+``` r
+bind_rows(
+  "women" = top_wta_open_era,
+  "men" = top_atp_open_era,
+  .id = "gender"
+) %>% 
+  mutate(winner_name = fct_inorder(winner_name),
+         winner_name = fct_rev(winner_name)) %>% 
+  ggplot(aes(x = n, y = winner_name)) +
+  geom_col(fill = "#C0C663") +
+  facet_wrap(vars(gender), scale = "free") +
+  hrbrthemes::theme_ipsum_rc() +
+  labs(title = "Top 5 Grand Slam Winners by Gender",
+       subtitle = "Only Grand Slams from the Open Era are Included",
+       x = "Number of titles won",
+       y = "")
+```
+
+![](answers_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
 ------------------------------------------------------------------------
 
