@@ -1,0 +1,289 @@
+tourney_id,tourney_name,tourney_level,tourney_date,winner_id,winner_name,round
+1949-1014,Australian Championships,G,19490122,216619,Doris Hart,F
+1949-1072,Roland Garros,G,19490518,226449,Margaret Osborne Dupont,F
+1949-1092,Wimbledon,G,19490620,223860,Louise Brough,F
+1949-1160,US National Championships,G,19490829,226449,Margaret Osborne Dupont,F
+1950-1017,Australian Championships,G,19500120,223860,Louise Brough,F
+1950-1092,Roland Garros,G,19500519,216619,Doris Hart,F
+1950-1121,Wimbledon,G,19500626,223860,Louise Brough,F
+1950-1207,US National Championships,G,19500827,226449,Margaret Osborne Dupont,F
+1951-1010,Australian Championships,G,19510122,231332,Nancye Wynne Bolton,F
+1951-1078,Roland Garros,G,19510523,228156,Shirley Fry,F
+1951-1096,Wimbledon,G,19510625,216619,Doris Hart,F
+1951-1165,US National Championships,G,19510825,230384,Maureen Connolly,F
+1952-1012,Australian Championships,G,19520118,216626,Thelma Long,F
+1952-1089,Roland Garros,G,19520520,216619,Doris Hart,F
+1952-1122,Wimbledon,G,19520623,230384,Maureen Connolly,F
+1952-1203,US National Championships,G,19520829,230384,Maureen Connolly,F
+1953-1010,Australian Championships,G,19530108,230384,Maureen Connolly,F
+1953-1085,Roland Garros,G,19530520,230384,Maureen Connolly,F
+1953-1113,Wimbledon,G,19530622,230384,Maureen Connolly,F
+1953-1221,US National Championships,G,19530829,230384,Maureen Connolly,F
+1954-1020,Australian Championships,G,19540123,216626,Thelma Long,F
+1954-1102,Roland Garros,G,19540518,230384,Maureen Connolly,F
+1954-1135,Wimbledon,G,19540621,230384,Maureen Connolly,F
+1954-1251,US National Championships,G,19540828,216619,Doris Hart,F
+1955-1019,Australian Championships,G,19550121,226922,Beryl Penrose,F
+1955-1104,Roland Garros,G,19550523,226357,Angela Mortimer,F
+1955-1135,Wimbledon,G,19550620,223860,Louise Brough,F
+1955-1221,US National Championships,G,19550902,216619,Doris Hart,F
+1956-1022,Australian Championships,G,19560120,226296,Mary Carter Reitano,F
+1956-1105,Roland Garros,G,19560515,216636,Althea Gibson,F
+1956-1148,Wimbledon,G,19560625,228156,Shirley Fry,F
+1956-1257,US National Championships,G,19560901,228156,Shirley Fry,F
+1957-1016,Australian Championships,G,19570118,228156,Shirley Fry,F
+1957-1095,Roland Garros,G,19570521,201113,Shirley Brasher,F
+1957-1130,Wimbledon,G,19570624,216636,Althea Gibson,F
+1957-1197,US National Championships,G,19570829,216636,Althea Gibson,F
+1958-1016,Australian Championships,G,19580116,226357,Angela Mortimer,F
+1958-1090,Roland Garros,G,19580520,212647,Zsuzsa Kormoczy,F
+1958-1117,Wimbledon,G,19580623,216636,Althea Gibson,F
+1958-1176,US National Championships,G,19580829,216636,Althea Gibson,F
+1959-1012,Australian Championships,G,19590116,226296,Mary Carter Reitano,F
+1959-1083,Roland Garros,G,19590519,201091,Christine Truman,F
+1959-1105,Wimbledon,G,19590622,200848,Maria Bueno,F
+1959-1174,US National Championships,G,19590906,200848,Maria Bueno,F
+1960-1018,Australian Championships,G,19600122,200144,Margaret Court,F
+1960-1097,Roland Garros,G,19600517,201236,Darlene Hard,F
+1960-1123,Wimbledon,G,19600620,200848,Maria Bueno,F
+1960-1213,US National Championships,G,19600902,201236,Darlene Hard,F
+1961-1013,Australian Championships,G,19610120,200144,Margaret Court,F
+1961-1086,Roland Garros,G,19610518,200193,Ann Jones,F
+1961-1107,Wimbledon,G,19610626,226357,Angela Mortimer,F
+1961-1174,US National Championships,G,19610901,201236,Darlene Hard,F
+1962-1007,Australian Championships,G,19620105,200144,Margaret Court,F
+1962-1087,Roland Garros,G,19620521,200144,Margaret Court,F
+1962-1112,Wimbledon,G,19620625,201158,Karen Susman,F
+1962-1187,US National Championships,G,19620831,200144,Margaret Court,F
+1963-1008,Australian Championships,G,19630110,200144,Margaret Court,F
+1963-1093,Roland Garros,G,19630513,200129,Lesley Bowrey,F
+1963-1129,Wimbledon,G,19630626,200144,Margaret Court,F
+1963-1209,US National Championships,G,19630828,200848,Maria Bueno,F
+1964-1012,Australian Championships,G,19640104,200144,Margaret Court,F
+1964-1118,Roland Garros,G,19640519,200144,Margaret Court,F
+1964-1148,Wimbledon,G,19640622,200848,Maria Bueno,F
+1964-1233,US National Championships,G,19640902,200848,Maria Bueno,F
+1965-1017,Australian Championships,G,19650122,200144,Margaret Court,F
+1965-1109,Roland Garros,G,19650517,200129,Lesley Bowrey,F
+1965-1144,Wimbledon,G,19650622,200144,Margaret Court,F
+1965-1210,US National Championships,G,19650903,200144,Margaret Court,F
+1966-1010,Australian Championships,G,19660121,200144,Margaret Court,F
+1966-1066,Roland Garros,G,19660522,200193,Ann Jones,F
+1966-1078,Wimbledon,G,19660620,200190,Billie Jean King,F
+1966-1126,US National Championships,G,19660901,200848,Maria Bueno,F
+1967-1004,Australian Championships,G,19670120,200829,Nancy Richey,F
+1967-1005,Roland Garros,G,19670522,200194,Francoise Durr,F
+1967-1006,Wimbledon,G,19670626,200190,Billie Jean King,F
+1967-1007,US National Championships,G,19670830,200190,Billie Jean King,F
+1968-W-SL-AUS-01A-1968,Australian Championships,G,19680119,200190,Billie Jean King,F
+1968-W-SL-FRA-01A-1968,Roland Garros,G,19680527,200829,Nancy Richey,F
+1968-W-SL-GBR-01A-1968,Wimbledon,G,19680624,200190,Billie Jean King,F
+1968-W-SL-USA-01A-1968,US Open,G,19680829,200237,Virginia Wade,F
+1969-W-SL-AUS-01A-1969,Australian Open,G,19690120,200144,Margaret Court,F
+1969-W-SL-FRA-01A-1969,Roland Garros,G,19690526,200144,Margaret Court,F
+1969-W-SL-GBR-01A-1969,Wimbledon,G,19690623,200193,Ann Jones,F
+1969-W-SL-USA-01A-1969,US Open,G,19690828,200144,Margaret Court,F
+1970-W-SL-AUS-01A-1970,Australian Open,G,19700119,200144,Margaret Court,F
+1970-W-SL-GBR-01A-1970,Wimbledon,G,19700622,200144,Margaret Court,F
+1970-W-SL-USA-01A-1970,US Open,G,19700902,200144,Margaret Court,F
+1970-W-SL-FRA-01A-1970,Roland Garros,G,19700525,200144,Margaret Court,F
+1971-W-SL-AUS-01A-1971,Australian Open,G,19710307,200144,Margaret Court,F
+1971-W-SL-FRA-01A-1971,Roland Garros,G,19710524,200150,Evonne Cawley,F
+1971-W-SL-GBR-01A-1971,Wimbledon,G,19710621,200150,Evonne Cawley,F
+1971-W-SL-USA-01A-1971,US Open,G,19710901,200190,Billie Jean King,F
+1972-W-SL-AUS-01A-1972,Australian Open,G,19711227,200237,Virginia Wade,F
+1972-W-SL-GBR-01A-1972,Wimbledon,G,19720626,200190,Billie Jean King,F
+1972-W-SL-USA-01A-1972,US Open,G,19720828,200190,Billie Jean King,F
+1972-W-SL-FRA-01A-1972,Roland Garros,G,19720522,200190,Billie Jean King,F
+1973-W-SL-AUS-01A-1973,Australian Open,G,19721226,200144,Margaret Court,F
+1973-W-SL-FRA-01A-1973,Roland Garros,G,19730521,200144,Margaret Court,F
+1973-W-SL-GBR-01A-1973,Wimbledon,G,19730625,200190,Billie Jean King,F
+1973-W-SL-USA-01A-1973,US Open,G,19730827,200144,Margaret Court,F
+1974-W-SL-AUS-01A-1974,Australian Open,G,19731226,200150,Evonne Cawley,F
+1974-W-SL-FRA-01A-1974,Roland Garros,G,19740603,200259,Chris Evert,F
+1974-W-SL-GBR-01A-1974,Wimbledon,G,19740624,200259,Chris Evert,F
+1974-W-SL-USA-01A-1974,US Open,G,19740828,200190,Billie Jean King,F
+1975-W-SL-AUS-01A-1975,Australian Open,G,19741221,200150,Evonne Cawley,F
+1975-W-SL-FRA-01A-1975,Roland Garros,G,19750602,200259,Chris Evert,F
+1975-W-SL-GBR-01A-1975,Wimbledon,G,19750623,200190,Billie Jean King,F
+1975-W-SL-USA-01A-1975,US Open,G,19750827,200259,Chris Evert,F
+1976-W-SL-AUS-01A-1976,Australian Open,G,19751226,200150,Evonne Cawley,F
+1976-W-SL-FRA-01A-1976,Roland Garros,G,19760531,200266,Sue Barker,F
+1976-W-SL-GBR-01A-1976,Wimbledon,G,19760621,200259,Chris Evert,F
+1976-W-SL-USA-01A-1976,US Open,G,19760901,200259,Chris Evert,F
+1977-W-SL-AUS-01A-1977,Australian Open,G,19770103,200176,Kerry Reid,F
+1977-W-SL-AUS-02A-1977,Australian Open 2,G,19771219,200150,Evonne Cawley,F
+1977-W-SL-FRA-01A-1977,Roland Garros,G,19770523,200371,Mima Jausovec,F
+1977-W-SL-GBR-01A-1977,Wimbledon,G,19770620,200237,Virginia Wade,F
+1977-W-SL-USA-01A-1977,US Open,G,19770831,200259,Chris Evert,F
+1978-W-SL-AUS-01A-1978,Australian Open,G,19781225,200256,Chris Oneil,F
+1978-W-SL-FRA-01A-1978,Roland Garros,G,19780529,200337,Virginia Ruzici,F
+1978-W-SL-USA-01A-1978,US Open,G,19780828,200259,Chris Evert,F
+1978-W-SL-GBR-01A-1978,Wimbledon,G,19780626,200293,Martina Navratilova,F
+1979-W-SL-FRA-01A-1979,Roland Garros,G,19790528,200259,Chris Evert,F
+1979-W-SL-GBR-01A-1979,Wimbledon,G,19790625,200293,Martina Navratilova,F
+1979-W-SL-USA-01A-1979,US Open,G,19790828,200397,Tracy Austin,F
+1979-W-SL-AUS-01A-1979,Australian Open,G,19791224,200344,Barbara Jordan,F
+1980-W-SL-AUS-01A-1980,Australian Open,G,19801124,200348,Hana Mandlikova,F
+1980-W-SL-FRA-01A-1980,Roland Garros,G,19800526,200259,Chris Evert,F
+1980-W-SL-GBR-01A-1980,Wimbledon,G,19800623,200150,Evonne Cawley,F
+1980-W-SL-USA-01A-1980,US Open,G,19800826,200259,Chris Evert,F
+1981-W-SL-AUS-01A-1981,Australian Open,G,19811130,200293,Martina Navratilova,F
+1981-W-SL-FRA-01A-1981,Roland Garros,G,19810525,200348,Hana Mandlikova,F
+1981-W-SL-GBR-01A-1981,Wimbledon,G,19810622,200259,Chris Evert,F
+1981-W-SL-USA-01A-1981,US Open,G,19810901,200397,Tracy Austin,F
+1982-W-SL-AUS-01A-1982,Australian Open,G,19821129,200259,Chris Evert,F
+1982-W-SL-FRA-01A-1982,Roland Garros,G,19820524,200293,Martina Navratilova,F
+1982-W-SL-GBR-01A-1982,Wimbledon,G,19820621,200293,Martina Navratilova,F
+1982-W-SL-USA-01A-1982,US Open,G,19820831,200259,Chris Evert,F
+1983-W-SL-AUS-01A-1983,Australian Open,G,19831129,200293,Martina Navratilova,F
+1983-W-SL-FRA-01A-1983,Roland Garros,G,19830523,200259,Chris Evert,F
+1983-W-SL-GBR-01A-1983,Wimbledon,G,19830620,200293,Martina Navratilova,F
+1983-W-SL-USA-01A-1983,US Open,G,19830830,200293,Martina Navratilova,F
+1984-W-SL-AUS-01A-1984,Australian Open,G,19841126,200259,Chris Evert,F
+1984-W-SL-FRA-01A-1984,Roland Garros,G,19840528,200293,Martina Navratilova,F
+1984-W-SL-GBR-01A-1984,Wimbledon,G,19840625,200293,Martina Navratilova,F
+1984-W-SL-USA-01A-1984,US Open,G,19840828,200293,Martina Navratilova,F
+1985-W-SL-AUS-01A-1985,Australian Open,G,19851125,200293,Martina Navratilova,F
+1985-W-SL-FRA-01A-1985,Roland Garros,G,19850527,200259,Chris Evert,F
+1985-W-SL-GBR-01A-1985,Wimbledon,G,19850624,200293,Martina Navratilova,F
+1985-W-SL-USA-01A-1985,US Open,G,19850827,200348,Hana Mandlikova,F
+1986-W-SL-FRA-01A-1986,Roland Garros,G,19860526,200259,Chris Evert,F
+1986-W-SL-GBR-01A-1986,Wimbledon,G,19860623,200293,Martina Navratilova,F
+1986-W-SL-USA-01A-1986,US Open,G,19860826,200293,Martina Navratilova,F
+1987-W-SL-AUS-01A-1987,Australian Open,G,19870112,200348,Hana Mandlikova,F
+1987-W-SL-FRA-01A-1987,Roland Garros,G,19870525,200414,Steffi Graf,F
+1987-W-SL-GBR-01A-1987,Wimbledon,G,19870622,200293,Martina Navratilova,F
+1987-W-SL-USA-01A-1987,US Open,G,19870901,200293,Martina Navratilova,F
+1988-W-SL-AUS-01A-1988,Australian Open,G,19880111,200414,Steffi Graf,F
+1988-W-SL-FRA-01A-1988,French Open,G,19880523,200414,Steffi Graf,F
+1988-W-SL-GBR-01A-1988,Wimbledon,G,19880620,200414,Steffi Graf,F
+1988-W-SL-USA-01A-1988,US Open,G,19880829,200414,Steffi Graf,F
+1989-W-SL-AUS-01A-1989,Australian Open,G,19890116,200414,Steffi Graf,F
+1989-W-SL-FRA-01A-1989,French Open,G,19890529,200017,Arantxa Sanchez Vicario,F
+1989-W-SL-GBR-01A-1989,Wimbledon,G,19890626,200414,Steffi Graf,F
+1989-W-SL-USA-01A-1989,US Open,G,19890828,200414,Steffi Graf,F
+1990-W-SL-AUS-01A-1990,Australian Open,G,19900115,200414,Steffi Graf,F
+1990-W-SL-FRA-01A-1990,French Open,G,19900528,200652,Monica Seles,F
+1990-W-SL-GBR-01A-1990,Wimbledon,G,19900625,200293,Martina Navratilova,F
+1990-W-SL-USA-01A-1990,US Open,G,19900827,200572,Gabriela Sabatini,F
+1991-W-SL-AUS-01A-1991,Australian Open,G,19910114,200652,Monica Seles,F
+1991-W-SL-FRA-01A-1991,French Open,G,19910527,200652,Monica Seles,F
+1991-W-SL-GBR-01A-1991,Wimbledon,G,19910624,200414,Steffi Graf,F
+1991-W-SL-USA-01A-1991,US Open,G,19910826,200652,Monica Seles,F
+1992-W-SL-AUS-01A-1992,Australian Open,G,19920113,200652,Monica Seles,F
+1992-W-SL-FRA-01A-1992,French Open,G,19920525,200652,Monica Seles,F
+1992-W-SL-GBR-01A-1992,Wimbledon,G,19920622,200414,Steffi Graf,F
+1992-W-SL-USA-01A-1992,US Open,G,19920831,200652,Monica Seles,F
+1993-W-SL-AUS-01A-1993,Australian Open,G,19930118,200652,Monica Seles,F
+1993-W-SL-FRA-01A-1993,French Open,G,19930524,200414,Steffi Graf,F
+1993-W-SL-GBR-01A-1993,Wimbledon,G,19930621,200414,Steffi Graf,F
+1993-W-SL-USA-01A-1993,US Open,G,19930830,200414,Steffi Graf,F
+1994-W-SL-AUS-01A-1994,Australian Open,G,19940117,200414,Steffi Graf,F
+1994-W-SL-FRA-01A-1994,French Open,G,19940523,200017,Arantxa Sanchez Vicario,F
+1994-W-SL-GBR-01A-1994,Wimbledon,G,19940620,200049,Conchita Martinez,F
+1994-W-SL-USA-01A-1994,US Open,G,19940829,200017,Arantxa Sanchez Vicario,F
+1995-W-SL-AUS-01A-1995,Australian Open,G,19950116,200096,Mary Pierce,F
+1995-W-SL-FRA-01A-1995,French Open,G,19950529,200414,Steffi Graf,F
+1995-W-SL-GBR-01A-1995,Wimbledon,G,19950626,200414,Steffi Graf,F
+1995-W-SL-USA-01A-1995,US Open,G,19950828,200414,Steffi Graf,F
+1996-W-SL-AUS-01A-1996,Australian Open,G,19960115,200652,Monica Seles,F
+1996-W-SL-FRA-01A-1996,French Open,G,19960527,200414,Steffi Graf,F
+1996-W-SL-GBR-01A-1996,Wimbledon,G,19960624,200414,Steffi Graf,F
+1996-W-SL-USA-01A-1996,US Open,G,19960826,200414,Steffi Graf,F
+1997-W-SL-AUS-01A-1997,Australian Open,G,19970113,200001,Martina Hingis,F
+1997-W-SL-FRA-01A-1997,French Open,G,19970526,200723,Iva Majoli,F
+1997-W-SL-GBR-01A-1997,Wimbledon,G,19970623,200001,Martina Hingis,F
+1997-W-SL-USA-01A-1997,US Open,G,19970825,200001,Martina Hingis,F
+1998-W-SL-AUS-01A-1998,Australian Open,G,19980119,200001,Martina Hingis,F
+1998-W-SL-FRA-01A-1998,French Open,G,19980525,200017,Arantxa Sanchez Vicario,F
+1998-W-SL-GBR-01A-1998,Wimbledon,G,19980622,200539,Jana Novotna,F
+1998-W-SL-USA-01A-1998,US Open,G,19980831,200128,Lindsay Davenport,F
+1999-W-SL-AUS-01A-1999,Australian Open,G,19990118,200001,Martina Hingis,F
+1999-W-SL-FRA-01A-1999,French Open,G,19990524,200414,Steffi Graf,F
+1999-W-SL-GBR-01A-1999,Wimbledon,G,19990621,200128,Lindsay Davenport,F
+1999-W-SL-USA-01A-1999,US Open,G,19990830,200033,Serena Williams,F
+2000-W-SL-AUS-01A-2000,Australian Open,G,20000117,200128,Lindsay Davenport,F
+2000-W-SL-FRA-01A-2000,Roland Garros,G,20000529,200096,Mary Pierce,F
+2000-W-SL-GBR-01A-2000,Wimbledon,G,20000626,200748,Venus Williams,F
+2000-W-SL-USA-01A-2000,US Open,G,20000822,200748,Venus Williams,F
+2001-W-SL-AUS-01A-2001,Australian Open,G,20010115,200077,Jennifer Capriati,F
+2001-W-SL-FRA-01A-2001,Roland Garros,G,20010528,200077,Jennifer Capriati,F
+2001-W-SL-GBR-01A-2001,Wimbledon,G,20010625,200748,Venus Williams,F
+2001-W-SL-USA-01A-2001,US Open,G,20010827,200748,Venus Williams,F
+2002-W-SL-AUS-01A-2002,Australian Open,G,20020114,200077,Jennifer Capriati,F
+2002-W-SL-FRA-01A-2002,Roland Garros,G,20020527,200033,Serena Williams,F
+2002-W-SL-GBR-01A-2002,Wimbledon,G,20020624,200033,Serena Williams,F
+2002-W-SL-USA-01A-2002,US Open,G,20020826,200033,Serena Williams,F
+2003-W-SL-AUS-01A-2003,Australian Open,G,20030113,200033,Serena Williams,F
+2003-W-SL-FRA-01A-2003,Roland Garros,G,20030526,200003,Justine Henin,F
+2003-W-SL-GBR-01A-2003,Wimbledon,G,20030623,200033,Serena Williams,F
+2003-W-SL-USA-01A-2003,US Open,G,20030825,200003,Justine Henin,F
+2004-W-SL-AUS-01A-2004,Australian Open,G,20040119,200003,Justine Henin,F
+2004-W-SL-FRA-01A-2004,Roland Garros,G,20040524,200772,Anastasia Myskina,F
+2004-W-SL-GBR-01A-2004,Wimbledon,G,20040621,201345,Maria Sharapova,F
+2004-W-SL-USA-01A-2004,US Open,G,20040830,201320,Svetlana Kuznetsova,F
+2005-W-SL-AUS-01A-2005,Australian Open,G,20050117,200033,Serena Williams,F
+2005-W-SL-FRA-01A-2005,Roland Garros,G,20050523,200003,Justine Henin,F
+2005-W-SL-GBR-01A-2005,Wimbledon,G,20050620,200748,Venus Williams,F
+2005-W-SL-USA-01A-2005,US Open,G,20050829,200079,Kim Clijsters,F
+2006-W-SL-AUS-01A-2006,Australian Open,G,20060116,200065,Amelie Mauresmo,F
+2006-W-SL-FRA-01A-2006,Roland Garros,G,20060529,200003,Justine Henin,F
+2006-W-SL-GBR-01A-2006,Wimbledon,G,20060626,200065,Amelie Mauresmo,F
+2006-W-SL-USA-01A-2006,US Open,G,20060828,201345,Maria Sharapova,F
+2007-W-SL-AUS-01A-2007,Australian Open,G,20070115,200033,Serena Williams,F
+2007-W-SL-FRA-01A-2007,Roland Garros,G,20070528,200003,Justine Henin,F
+2007-W-SL-GBR-01A-2007,Wimbledon,G,20070625,200748,Venus Williams,F
+2007-W-SL-USA-01A-2007,US Open,G,20070827,200003,Justine Henin,F
+2008-W-SL-AUS-01A-2008,Australian Open,G,20080114,201345,Maria Sharapova,F
+2008-W-SL-FRA-01A-2008,Roland Garros,G,20080526,201421,Ana Ivanovic,F
+2008-W-SL-GBR-01A-2008,Wimbledon,G,20080623,200748,Venus Williams,F
+2008-W-SL-USA-01A-2008,US Open,G,20080825,200033,Serena Williams,F
+2009-W-SL-AUS-01A-2009,Australian Open,G,20090119,200033,Serena Williams,F
+2009-W-SL-FRA-01A-2009,Roland Garros,G,20090525,201320,Svetlana Kuznetsova,F
+2009-W-SL-GBR-01A-2009,Wimbledon,G,20090622,200033,Serena Williams,F
+2009-W-SL-USA-01A-2009,US Open,G,20090831,200079,Kim Clijsters,F
+2010-W-SL-AUS-01A-2010,Australian Open,G,20100118,200033,Serena Williams,F
+2010-W-SL-FRA-01A-2010,Roland Garros,G,20100524,201212,Francesca Schiavone,F
+2010-W-SL-GBR-01A-2010,Wimbledon,G,20100621,200033,Serena Williams,F
+2010-W-SL-USA-01A-2010,US Open,G,20100830,200079,Kim Clijsters,F
+2011-W-SL-AUS-01A-2011,Australian Open,G,20110117,200079,Kim Clijsters,F
+2011-W-SL-FRA-01A-2011,Roland Garros,G,20110523,201419,Na Li,F
+2011-W-SL-GBR-01A-2011,Wimbledon,G,20110620,201520,Petra Kvitova,F
+2011-W-SL-USA-01A-2011,US Open,G,20110829,201325,Samantha Stosur,F
+2012-W-SL-AUS-01A-2012,Australian Open,G,20120116,201458,Victoria Azarenka,F
+2012-W-SL-FRA-01A-2012,Roland Garros,G,20120528,201345,Maria Sharapova,F
+2012-W-SL-GBR-01A-2012,Wimbledon,G,20120625,200033,Serena Williams,F
+2012-W-SL-USA-01A-2012,US Open,G,20120827,200033,Serena Williams,F
+2013-W-SL-AUS-01A-2013,Australian Open,G,20130114,201458,Victoria Azarenka,F
+2013-W-SL-FRA-01A-2013,Roland Garros,G,20130527,200033,Serena Williams,F
+2013-W-SL-GBR-01A-2013,Wimbledon,G,20130624,201294,Marion Bartoli,F
+2013-W-SL-USA-01A-2013,US Open,G,20130826,200033,Serena Williams,F
+2014-W-SL-AUS-01A-2014,Australian Open,G,20140113,201419,Na Li,F
+2014-W-SL-FRA-01A-2014,Roland Garros,G,20140526,201345,Maria Sharapova,F
+2014-W-SL-GBR-01A-2014,Wimbledon,G,20140623,201520,Petra Kvitova,F
+2014-W-SL-USA-01A-2014,US Open,G,20140825,200033,Serena Williams,F
+2015-W-SL-AUS-01A-2015,Australian Open,G,20150119,200033,Serena Williams,F
+2015-W-SL-FRA-01A-2015,Roland Garros,G,20150525,200033,Serena Williams,F
+2015-W-SL-GBR-01A-2015,Wimbledon,G,20150629,200033,Serena Williams,F
+2015-W-SL-USA-01A-2015,US Open,G,20150831,201355,Flavia Pennetta,F
+2016-520,Roland Garros,G,20160523,202469,Garbine Muguruza,F
+2016-540,Wimbledon,G,20160627,200033,Serena Williams,F
+2016-560,US Open,G,20160829,201493,Angelique Kerber,F
+2016-580,Australian Open,G,20160118,201493,Angelique Kerber,F
+2017-520,Roland Garros,G,20170529,211533,Jelena Ostapenko,F
+2017-540,Wimbledon,G,20170703,202469,Garbine Muguruza,F
+2017-560,US Open,G,20170828,201585,Sloane Stephens,F
+2017-580,Australian Open,G,20170116,200033,Serena Williams,F
+2018-520,Roland Garros,G,20180528,201594,Simona Halep,F
+2018-540,Wimbledon,G,20180702,201493,Angelique Kerber,F
+2018-560,US Open,G,20180827,211768,Naomi Osaka,F
+2018-580,Australian Open,G,20180115,201496,Caroline Wozniacki,F
+2019-520,Roland Garros,G,20190527,202458,Ashleigh Barty,F
+2019-540,Wimbledon,G,20190701,201594,Simona Halep,F
+2019-560,US Open,G,20190826,215370,Bianca Andreescu,F
+2019-580,Australian Open,G,20190114,211768,Naomi Osaka,F
+2020-580,Australian Open,G,20200120,213550,Sofia Kenin,F
+2020-560,US Open,G,20200831,211768,Naomi Osaka,F
+2020-520,Roland Garros,G,20200928,216347,Iga Swiatek,F
+2021-580,Australian Open,G,20210208,211768,Naomi Osaka,F

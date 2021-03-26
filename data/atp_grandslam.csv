@@ -1,0 +1,213 @@
+tourney_id,tourney_name,tourney_level,tourney_date,winner_id,winner_name,round
+1968-520,Roland Garros,G,19680527,100016,Ken Rosewall,F
+1968-540,Wimbledon,G,19680624,100029,Rod Laver,F
+1968-560,US Open,G,19680829,100074,Arthur Ashe,F
+1968-580,Australian Chps.,G,19680119,100079,Bill Bowrey,F
+1969-520,Roland Garros,G,19690528,100029,Rod Laver,F
+1969-540,Wimbledon,G,19690623,100029,Rod Laver,F
+1969-560,US Open,G,19690827,100029,Rod Laver,F
+1969-580,Australian Open,G,19690120,100029,Rod Laver,F
+1970-520,Roland Garros,G,19700501,100113,Jan Kodes,F
+1970-540,Wimbledon,G,19700622,100087,John Newcombe,F
+1970-560,US Open,G,19700902,100016,Ken Rosewall,F
+1970-580,Australian Open,G,19700119,100074,Arthur Ashe,F
+1971-520,Roland Garros,G,19710521,100113,Jan Kodes,F
+1971-540,Wimbledon,G,19710621,100087,John Newcombe,F
+1971-560,US Open,G,19710901,100126,Stan Smith,F
+1971-580,Australian Open,G,19710307,100016,Ken Rosewall,F
+1972-520,Roland Garros,G,19720522,100026,Andres Gimeno,F
+1972-540,Wimbledon,G,19720626,100126,Stan Smith,F
+1972-560,US Open,G,19720830,100119,Ilie Nastase,F
+1972-580,Australian Open,G,19711226,100016,Ken Rosewall,F
+1973-520,Roland Garros,G,19730521,100119,Ilie Nastase,F
+1973-540,Wimbledon,G,19730625,100113,Jan Kodes,F
+1973-560,US Open,G,19730829,100087,John Newcombe,F
+1973-580,Australian Open,G,19721226,100087,John Newcombe,F
+1974-520,Roland Garros,G,19740603,100437,Bjorn Borg,F
+1974-540,Wimbledon,G,19740624,100284,Jimmy Connors,F
+1974-560,US Open,G,19740828,100284,Jimmy Connors,F
+1974-580,Australian Open,G,19731226,100284,Jimmy Connors,F
+1975-520,Roland Garros,G,19750604,100437,Bjorn Borg,F
+1975-540,Wimbledon,G,19750623,100074,Arthur Ashe,F
+1975-560,US Open,G,19750827,100174,Manuel Orantes,F
+1975-580,Australian Open,G,19741221,100087,John Newcombe,F
+1976-520,Roland Garros,G,19760531,100214,Adriano Panatta,F
+1976-540,Wimbledon,G,19760621,100437,Bjorn Borg,F
+1976-560,US Open,G,19760901,100284,Jimmy Connors,F
+1976-580,Australian Open,G,19751226,100337,Mark Edmondson,F
+1977-520,Roland Garros,G,19770523,100282,Guillermo Vilas,F
+1977-540,Wimbledon,G,19770620,100437,Bjorn Borg,F
+1977-560,US Open,G,19770831,100282,Guillermo Vilas,F
+1977-580,Australian Open,G,19770101,100255,Roscoe Tanner,F
+1977-581,Australian Open-2,G,19771219,100342,Vitas Gerulaitis,F
+1978-520,Roland Garros,G,19780529,100437,Bjorn Borg,F
+1978-540,Wimbledon,G,19780626,100437,Bjorn Borg,F
+1978-560,US Open,G,19780829,100284,Jimmy Connors,F
+1978-580,Australian Open,G,19781226,100282,Guillermo Vilas,F
+1979-520,Roland Garros,G,19790528,100437,Bjorn Borg,F
+1979-540,Wimbledon,G,19790625,100437,Bjorn Borg,F
+1979-560,US Open,G,19790828,100581,John McEnroe,F
+1979-580,Australian Open,G,19791224,100282,Guillermo Vilas,F
+1980-520,Roland Garros,G,19800526,100437,Bjorn Borg,F
+1980-540,Wimbledon,G,19800623,100437,Bjorn Borg,F
+1980-560,US Open,G,19800826,100581,John McEnroe,F
+1980-580,Australian Open,G,19801226,100360,Brian Teacher,F
+1981-520,Roland Garros,G,19810525,100437,Bjorn Borg,F
+1981-540,Wimbledon,G,19810622,100581,John McEnroe,F
+1981-560,US Open,G,19810901,100581,John McEnroe,F
+1981-580,Australian Open,G,19811224,100532,Johan Kriek,F
+1982-520,Roland Garros,G,19820524,101062,Mats Wilander,F
+1982-540,Wimbledon,G,19820621,100284,Jimmy Connors,F
+1982-560,US Open,G,19820831,100284,Jimmy Connors,F
+1982-580,Australian Open,G,19821202,100532,Johan Kriek,F
+1983-520,Roland Garros,G,19830523,100676,Yannick Noah,F
+1983-540,Wimbledon,G,19830620,100581,John McEnroe,F
+1983-560,US Open,G,19830830,100284,Jimmy Connors,F
+1983-580,Australian Open,G,19831129,101062,Mats Wilander,F
+1984-520,Roland Garros,G,19840528,100656,Ivan Lendl,F
+1984-540,Wimbledon,G,19840625,100581,John McEnroe,F
+1984-560,US Open,G,19840828,100581,John McEnroe,F
+1984-580,Australian Open,G,19841126,101062,Mats Wilander,F
+1985-520,Roland Garros,G,19850527,101062,Mats Wilander,F
+1985-540,Wimbledon,G,19850624,101414,Boris Becker,F
+1985-560,US Open,G,19850827,100656,Ivan Lendl,F
+1985-580,Australian Open,G,19851125,101222,Stefan Edberg,F
+1986-520,Roland Garros,G,19860526,100656,Ivan Lendl,F
+1986-540,Wimbledon,G,19860623,101414,Boris Becker,F
+1986-560,US Open,G,19860826,100656,Ivan Lendl,F
+1987-520,Roland Garros,G,19870525,100656,Ivan Lendl,F
+1987-540,Wimbledon,G,19870622,101138,Pat Cash,F
+1987-560,US Open,G,19870901,100656,Ivan Lendl,F
+1987-580,Australian Open,G,19870112,101222,Stefan Edberg,F
+1988-520,Roland Garros,G,19880523,101062,Mats Wilander,F
+1988-540,Wimbledon,G,19880620,101222,Stefan Edberg,F
+1988-560,US Open,G,19880829,101062,Mats Wilander,F
+1988-580,Australian Open,G,19880111,101062,Mats Wilander,F
+1989-520,Roland Garros,G,19890529,102021,Michael Chang,F
+1989-540,Wimbledon,G,19890626,101414,Boris Becker,F
+1989-560,US Open,G,19890828,101414,Boris Becker,F
+1989-580,Australian Open,G,19890116,100656,Ivan Lendl,F
+1990-580,Australian Open,G,19900115,100656,Ivan Lendl,F
+1990-520,Roland Garros,G,19900528,100653,Andres Gomez,F
+1990-540,Wimbledon,G,19900625,101222,Stefan Edberg,F
+1990-560,US Open,G,19900827,101948,Pete Sampras,F
+1991-580,Australian Open,G,19910114,101414,Boris Becker,F
+1991-520,Roland Garros,G,19910527,101793,Jim Courier,F
+1991-540,Wimbledon,G,19910624,101529,Michael Stich,F
+1991-560,US Open,G,19910826,101222,Stefan Edberg,F
+1992-580,Australian Open,G,19920113,101793,Jim Courier,F
+1992-520,Roland Garros,G,19920525,101793,Jim Courier,F
+1992-540,Wimbledon,G,19920622,101736,Andre Agassi,F
+1992-560,US Open,G,19920831,101222,Stefan Edberg,F
+1993-580,Australian Open,G,19930118,101793,Jim Courier,F
+1993-520,Roland Garros,G,19930524,101843,Sergi Bruguera,F
+1993-540,Wimbledon,G,19930621,101948,Pete Sampras,F
+1993-560,US Open,G,19930830,101948,Pete Sampras,F
+1994-580,Australian Open,G,19940117,101948,Pete Sampras,F
+1994-520,Roland Garros,G,19940523,101843,Sergi Bruguera,F
+1994-540,Wimbledon,G,19940620,101948,Pete Sampras,F
+1994-560,US Open,G,19940829,101736,Andre Agassi,F
+1995-580,Australian Open,G,19950116,101736,Andre Agassi,F
+1995-520,Roland Garros,G,19950529,101404,Thomas Muster,F
+1995-540,Wimbledon,G,19950626,101948,Pete Sampras,F
+1995-560,US Open,G,19950828,101948,Pete Sampras,F
+1996-580,Australian Open,G,19960115,101414,Boris Becker,F
+1996-520,Roland Garros,G,19960527,102338,Yevgeny Kafelnikov,F
+1996-540,Wimbledon,G,19960624,101990,Richard Krajicek,F
+1996-560,US Open,G,19960826,101948,Pete Sampras,F
+1997-580,Australian Open,G,19970113,101948,Pete Sampras,F
+1997-520,Roland Garros,G,19970526,102856,Gustavo Kuerten,F
+1997-540,Wimbledon,G,19970623,101948,Pete Sampras,F
+1997-560,US Open,G,19970825,102158,Patrick Rafter,F
+1998-580,Australian Open,G,19980119,101434,Petr Korda,F
+1998-520,Roland Garros,G,19980525,102845,Carlos Moya,F
+1998-540,Wimbledon,G,19980622,101948,Pete Sampras,F
+1998-560,US Open,G,19980831,102158,Patrick Rafter,F
+1999-580,Australian Open,G,19990118,102338,Yevgeny Kafelnikov,F
+1999-520,Roland Garros,G,19990524,101736,Andre Agassi,F
+1999-540,Wimbledon,G,19990621,101948,Pete Sampras,F
+1999-560,US Open,G,19990830,101736,Andre Agassi,F
+2000-520,Roland Garros,G,20000529,102856,Gustavo Kuerten,F
+2000-540,Wimbledon,G,20000626,101948,Pete Sampras,F
+2000-560,US Open,G,20000828,103498,Marat Safin,F
+2000-580,Australian Open,G,20000117,101736,Andre Agassi,F
+2001-520,Roland Garros,G,20010528,102856,Gustavo Kuerten,F
+2001-540,Wimbledon,G,20010625,101964,Goran Ivanisevic,F
+2001-560,US Open,G,20010827,103720,Lleyton Hewitt,F
+2001-580,Australian Open,G,20010115,101736,Andre Agassi,F
+2002-520,Roland Garros,G,20020527,102610,Albert Costa,F
+2002-540,Wimbledon,G,20020624,103720,Lleyton Hewitt,F
+2002-560,US Open,G,20020826,101948,Pete Sampras,F
+2002-580,Australian Open,G,20020114,102563,Thomas Johansson,F
+2003-520,Roland Garros,G,20030526,103507,Juan Carlos Ferrero,F
+2003-540,Wimbledon,G,20030623,103819,Roger Federer,F
+2003-560,US Open,G,20030825,104053,Andy Roddick,F
+2003-580,Australian Open,G,20030113,101736,Andre Agassi,F
+2004-520,Roland Garros,G,20040524,103292,Gaston Gaudio,F
+2004-540,Wimbledon,G,20040621,103819,Roger Federer,F
+2004-560,US Open,G,20040830,103819,Roger Federer,F
+2004-580,Australian Open,G,20040119,103819,Roger Federer,F
+2005-520,Roland Garros,G,20050523,104745,Rafael Nadal,F
+2005-540,Wimbledon,G,20050620,103819,Roger Federer,F
+2005-560,US Open,G,20050829,103819,Roger Federer,F
+2005-580,Australian Open,G,20050117,103498,Marat Safin,F
+2006-520,Roland Garros,G,20060529,104745,Rafael Nadal,F
+2006-540,Wimbledon,G,20060626,103819,Roger Federer,F
+2006-560,US Open,G,20060828,103819,Roger Federer,F
+2006-580,Australian Open,G,20060116,103819,Roger Federer,F
+2007-520,Roland Garros,G,20070528,104745,Rafael Nadal,F
+2007-540,Wimbledon,G,20070625,103819,Roger Federer,F
+2007-560,US Open,G,20070827,103819,Roger Federer,F
+2007-580,Australian Open,G,20070115,103819,Roger Federer,F
+2008-520,Roland Garros,G,20080525,104745,Rafael Nadal,F
+2008-540,Wimbledon,G,20080623,104745,Rafael Nadal,F
+2008-560,US Open,G,20080825,103819,Roger Federer,F
+2008-580,Australian Open,G,20080114,104925,Novak Djokovic,F
+2009-520,Roland Garros,G,20090525,103819,Roger Federer,F
+2009-540,Wimbledon,G,20090622,103819,Roger Federer,F
+2009-560,US Open,G,20090831,105223,Juan Martin del Potro,F
+2009-580,Australian Open,G,20090119,104745,Rafael Nadal,F
+2010-580,Australian Open,G,20100118,103819,Roger Federer,F
+2010-520,Roland Garros,G,20100524,104745,Rafael Nadal,F
+2010-540,Wimbledon,G,20100621,104745,Rafael Nadal,F
+2010-560,US Open,G,20100830,104745,Rafael Nadal,F
+2011-580,Australian Open,G,20110117,104925,Novak Djokovic,F
+2011-520,Roland Garros,G,20110522,104745,Rafael Nadal,F
+2011-540,Wimbledon,G,20110620,104925,Novak Djokovic,F
+2011-560,US Open,G,20110829,104925,Novak Djokovic,F
+2012-580,Australian Open,G,20120116,104925,Novak Djokovic,F
+2012-520,Roland Garros,G,20120527,104745,Rafael Nadal,F
+2012-540,Wimbledon,G,20120625,103819,Roger Federer,F
+2012-560,US Open,G,20120827,104918,Andy Murray,F
+2013-580,Australian Open,G,20130114,104925,Novak Djokovic,F
+2013-520,Roland Garros,G,20130527,104745,Rafael Nadal,F
+2013-540,Wimbledon,G,20130624,104918,Andy Murray,F
+2013-560,US Open,G,20130826,104745,Rafael Nadal,F
+2014-580,Australian Open,G,20140113,104527,Stan Wawrinka,F
+2014-520,Roland Garros,G,20140526,104745,Rafael Nadal,F
+2014-540,Wimbledon,G,20140623,104925,Novak Djokovic,F
+2014-560,US Open,G,20140825,105227,Marin Cilic,F
+2015-580,Australian Open,G,20150119,104925,Novak Djokovic,F
+2015-520,Roland Garros,G,20150524,104527,Stan Wawrinka,F
+2015-540,Wimbledon,G,20150629,104925,Novak Djokovic,F
+2015-560,US Open,G,20150831,104925,Novak Djokovic,F
+2016-580,Australian Open,G,20160118,104925,Novak Djokovic,F
+2016-520,Roland Garros,G,20160523,104925,Novak Djokovic,F
+2016-540,Wimbledon,G,20160627,104918,Andy Murray,F
+2016-560,US Open,G,20160829,104527,Stan Wawrinka,F
+2017-580,Australian Open,G,20170116,103819,Roger Federer,F
+2017-520,Roland Garros,G,20170529,104745,Rafael Nadal,F
+2017-540,Wimbledon,G,20170703,103819,Roger Federer,F
+2017-560,US Open,G,20170828,104745,Rafael Nadal,F
+2018-580,Australian Open,G,20180115,103819,Roger Federer,F
+2018-520,Roland Garros,G,20180528,104745,Rafael Nadal,F
+2018-540,Wimbledon,G,20180702,104925,Novak Djokovic,F
+2018-560,US Open,G,20180827,104925,Novak Djokovic,F
+2019-580,Australian Open,G,20190114,104925,Novak Djokovic,F
+2019-520,Roland Garros,G,20190527,104745,Rafael Nadal,F
+2019-540,Wimbledon,G,20190701,104925,Novak Djokovic,F
+2019-560,US Open,G,20190826,104745,Rafael Nadal,F
+2020-580,Australian Open,G,20200120,104925,Novak Djokovic,F
+2020-560,US Open,G,20200831,106233,Dominic Thiem,F
+2020-520,Roland Garros,G,20200928,104745,Rafael Nadal,F
+2021-580,Australian Open,G,20210208,104925,Novak Djokovic,F
